@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("Esto es un test de consola");
 		System.out.println("Esto es una amplicación al test de consola");
 		System.out.println("Esto es una amplicación más al test de consola");
+		//error
 	}
 }
